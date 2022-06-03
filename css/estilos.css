@@ -28,3 +28,11 @@ p:hover{
     text-decoration: underline;
     transform: scale(105%);
 }
+
+body {
+    background-image: url(../imgs/copa\ del\ mundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
